@@ -13,6 +13,5 @@
 
 ## Made with ♥ By Koteswararao Gutta
 
-[![Piyush Agarwal](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/piyush-eon)
 
 MIT © [Koteswararao Gutta](https://github.com/Koteswararao-Gutta)
